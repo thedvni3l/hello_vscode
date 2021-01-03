@@ -1,0 +1,7 @@
+.test {
+  color: green;
+}
+
+.test:hover {
+  color: red;
+}
